@@ -1,1 +1,1 @@
-<img src="Java.jpg" align="center" margin="auto">
+<img src="javapng.png" align="center" margin="auto">
